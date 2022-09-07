@@ -7,6 +7,8 @@ Date: 08/28/2022 - 00/30/2022
 
 ### Monkey data (Niebur Lab)
 
+The goal of this tutorial is to learn the basics of spike train analysis and give an introduction to point processes, cross-correlation and the jitter method (Amarasingham et al., 2012). The tutorial will include additional material on generating Monte Carlo data and hypothesis testing. In the folder "Nieburlab_JHU_bootcamp," there is a PDF called "Spike Train Analysis & The Jitter Method," which provides exercises involving creation and analysis of synthetic data and analysis of recorded data from Macaque motor cortex. These tasks will involve learning a couple basic algorithms and implementing them in Matlab. All necessary Matlab files are located in Nieburlab_JHU_bootcamp.
+
 ### Mouse data (Lee Lab)
 
 ### Fish data -- whole brain imaging analysis (Ahrens Lab)

@@ -6,12 +6,12 @@ Location: Janelia Research Campus
 Date: 08/28/2022 - 00/30/2022
 
 ### Premier Lectures
-##### machine learning for neuroscience
+#### 1. Machine learning for neuroscience
 Srini Turaga
 
 [Machine learning for neuroscience](./Lectures/Srini_Turaga_2022_Aug_JHU_bootcamp.pdf)
 
-#### Matlab tutorial
+#### 2. Matlab tutorial
 Albert Lee
 
 Matlab Primer pdf included here contains the Matlab basics you need for [this tutorial](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html).

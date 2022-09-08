@@ -18,10 +18,12 @@ Matlab Primer pdf included here contains the Matlab basics you need for [this tu
 
 ### Monkey data (Niebur Lab)
 
-The goal of this tutorial is to learn the basics of spike train analysis and give an introduction to point processes, cross-correlation and the jitter method ([Amarasingham et al., 2012](./Monkey/Spike_Train_Analysis_Jitter_Method.pdf)). The tutorial will include additional material on generating Monte Carlo data and hypothesis testing. To start the tutorial, open the PDF called "Spike Train Analysis & The Jitter Method". We provide exercises involving creation and analysis of synthetic data and analysis of recorded data from Macaque motor cortex. These tasks will involve learning a couple basic algorithms and implementing them in Matlab.
+The goal of this tutorial is to learn the basics of spike train analysis and give an introduction to point processes, cross-correlation and the jitter method ([Amarasingham et al., 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3349623/)). The tutorial will include additional material on generating Monte Carlo data and hypothesis testing. To start the tutorial, open the PDF called "Spike Train Analysis & The Jitter Method". We provide exercises involving creation and analysis of synthetic data and analysis of recorded data from Macaque motor cortex. These tasks will involve learning a couple basic algorithms and implementing them in Matlab.
 
 * **Tutors**: Simon Locke (JHU)
-* [**Teaching materials & Dataset**](./Monkey/)
+* [**Teaching materials**](./Monkey/Spike_Train_Analysis_Jitter_Method.pdf)
+* [**Dataset**](./Monkey/Data/)
+
 
 
 ### Mouse data (Lee Lab)

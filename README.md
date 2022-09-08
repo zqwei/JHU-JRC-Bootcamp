@@ -24,9 +24,11 @@ The goal of this tutorial is to learn the basics of spike train analysis and giv
 * [**Teaching materials**](./Monkey/Spike_Train_Analysis_Jitter_Method.pdf)
 * [**Dataset**](./Monkey/Data/)
 
-### Mouse data (Lee Lab)
+### Mouse data -- intracellular place field analysis (Lee Lab)
+__Receptive fields (RFs)__ are one of the cornerstones of neuroscience. The standard RF of a neuron for a given stimulus space is the neuron’s average firing rate as a function of each stimulus value. Traditionally, place fields are determined using extracellular recording in freely moving animals. But you can also get intracellular recordings of place cells in freely moving animals and you can get place cells in head‐fixed animals navigating virtual reality (VR) environments. These can be combined to give you intracellular recordings of place cells in VR. Your primary goal will be to compute the AP firing rate as a function of the animal’s location in the VR environment, using Matlab to accomplish this. If there is additional time, you can extract the AP firing
+times directly from the intracellular trace, estimate the AP threshold, bandpass filter the intracellular trace, remove the APs from the trace and compute the subthreshold RF, and so on.
 
-* **Tutors**: Simon Locke (JHU)
+* **Tutors**: Jae Sung Lee (JRC)
 * [**Teaching materials**](./Mouse_Intra/intra_analysis_bootcamp2022.pdf)
 * [**Dataset**](./Mouse_Intra/Data/)
 
